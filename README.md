@@ -1,4 +1,4 @@
-# Cirqle Landing Page
+# Cirqle Landing Page 
 
 A modern, responsive landing page built with React TypeScript for the Cirqle mobile application by Cirqlelife.
 
