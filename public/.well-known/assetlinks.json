@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cirqlelife.cirqle",
+      "sha256_cert_fingerprints": [
+        "81:1C:43:BD:35:91:71:8C:0B:D9:F2:CF:EF:80:3C:47:4C:DB:17:8F:5E:F7:6A:99:01:D0:37:97:20:22:06:2B"
+      ]
+    }
+  }
+]
