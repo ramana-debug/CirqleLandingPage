@@ -89,12 +89,6 @@ interface FeatureProps {
   color: string;
 }
 
-interface ScreenshotProps {
-  icon: React.ReactNode;
-  title: string;
-  description: string;
-}
-
 // Icon Components (SVG-based professional icons)
 const Icons = {
   Portfolio: () => (

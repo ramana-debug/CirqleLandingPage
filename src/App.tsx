@@ -23,12 +23,6 @@ const App: React.FC = () => {
     window.scrollTo(0, 0);
   }, [currentPath]);
 
-  // Function to navigate programmatically
-  const navigate = (path: string) => {
-    window.history.pushState({}, '', path);
-    setCurrentPath(path);
-  };
-
   // Render based on current path
   switch (currentPath) {
     case '/terms':
